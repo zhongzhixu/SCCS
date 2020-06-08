@@ -34,5 +34,6 @@ con.mod
 ```
 ## Environment
 R (version 3.3.2)
+Package "SCCS" (version 1.1)
 
 
