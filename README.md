@@ -12,6 +12,7 @@ The original Data used in the paper is restricted by the ethics of Hospital Auth
 ~	obs_end</br>
 ~ first_treatment_start</br>
 ~ first_treatment_end</br>
+~ eventdate</br>
 ~ case_id</br>
 ~	sub_treatment_start</br>	
 ~ sub_treatment_end</br>
