@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository provides R codes for performing Self-Controlled Case Series (SCCS) analyses in an observational database to investigate the association of antidepressants with the risk of dementia.
+This repository provides R codes for performing Self-Controlled Case Series (SCCS) analysis in an observational database to investigate the association of antidepressants with the risk of dementia.
 
 ### The general design of the SCCS analysis
 ![figure](https://github.com/zhongzhixu/SCCS/blob/master/design.png)
