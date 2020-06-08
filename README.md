@@ -10,11 +10,11 @@ The original Data used in the paper is restricted by the ethics of Hospital Auth
 ### Columns </br>
 ~ obs_start</br>
 ~	obs_end</br>
-~ first_treatment_start
-~ first_treatment_end
-~ case_id
-~	sub_treatment_start	
-~ sub_treatment_end
+~ first_treatment_start</br>
+~ first_treatment_end</br>
+~ case_id</br>
+~	sub_treatment_start</br>	
+~ sub_treatment_end</br>
 
 ## Example
 ```
