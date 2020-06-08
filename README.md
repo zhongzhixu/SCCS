@@ -32,7 +32,7 @@ con.mod <- standardsccs(event~first_treatment_start+sub_treatment_start+age, ind
                         agegrp=ageg, data=dat)
 con.mod
 ```
-## Environment:
+## Environment
 R (version 3.3.2)
 
 
