@@ -33,7 +33,7 @@ con.mod <- standardsccs(event~first_treatment_start+sub_treatment_start+age, ind
 con.mod
 ```
 ## Environment
-R (version 3.3.2)
+R (version 3.3.2)</br>
 Package "SCCS" (version 1.1)
 
 
