@@ -6,7 +6,7 @@ This repository provides R codes for performing Self-Controlled Case Series (SCC
 ![figure](https://github.com/zhongzhixu/SCCS/blob/master/design.png)
 
 ## Data
-The original Data used in the paper is restricted by the ethics of Hospital Authority of Hong Kong. Simulated data is provided instead.
+The original Data used in the paper is restricted by the ethics of Hospital Authority of Hong Kong. Fictive data is provided instead.
 ### Columns </br>
 ~ obs_start</br>
 ~	obs_end</br>
